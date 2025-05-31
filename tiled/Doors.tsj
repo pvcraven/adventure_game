@@ -1,0 +1,30 @@
+{ "columns":0,
+ "grid":
+    {
+     "height":1,
+     "orientation":"orthogonal",
+     "width":1
+    },
+ "margin":0,
+ "name":"Doors",
+ "spacing":0,
+ "tilecount":2,
+ "tiledversion":"1.11.2",
+ "tileheight":32,
+ "tiles":[
+        {
+         "id":2,
+         "image":"..\/assets\/Tileset\/Doors\/Closed Wooden door.png",
+         "imageheight":32,
+         "imagewidth":32
+        }, 
+        {
+         "id":4,
+         "image":"..\/assets\/Tileset\/Doors\/Opened Wooden door.png",
+         "imageheight":32,
+         "imagewidth":32
+        }],
+ "tilewidth":32,
+ "type":"tileset",
+ "version":"1.10"
+}

@@ -43,7 +43,7 @@ class AdventureGameWindow(arcade.Window):
         # Set up the characters
         self.character_list = arcade.SpriteList()
         orc_sprite = OrcSprite()
-        orc_sprite.position = (160, 950)
+        orc_sprite.position = (1835, 950)
         self.character_list.append(orc_sprite)
 
         self.tile_map = arcade.load_tilemap(
